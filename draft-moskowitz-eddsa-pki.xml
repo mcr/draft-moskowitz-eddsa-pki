@@ -12,7 +12,7 @@
  <?rfc iprnotified="no" ?>
   <?rfc strict="no" ?>
 
-<rfc category="info" docName="draft-moskowitz-eddsa-pki-02" ipr="trust200902">
+<rfc category="info" docName="draft-moskowitz-eddsa-pki-03" ipr="trust200902">
  <front>
 <title abbrev="PKI Guide">Guide for building an EDDSA pki</title>
         <author fullname="Robert Moskowitz" initials="R." surname="Moskowitz" >
@@ -47,7 +47,7 @@
         <uri>http://www.sandelman.ca/</uri>
       </address>
     </author>
-<date year="2019"/>
+<date year="2020"/>
    <area>Security Area</area>
    <workgroup>wg TBD</workgroup>
     <keyword>RFC</keyword>
