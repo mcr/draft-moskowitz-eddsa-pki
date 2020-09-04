@@ -12,7 +12,7 @@
  <?rfc iprnotified="no" ?>
   <?rfc strict="no" ?>
 
-<rfc category="info" docName="draft-moskowitz-eddsa-pki-03" ipr="trust200902">
+<rfc category="info" docName="draft-moskowitz-eddsa-pki-04" ipr="trust200902">
  <front>
 <title abbrev="PKI Guide">Guide for building an EDDSA pki</title>
         <author fullname="Robert Moskowitz" initials="R." surname="Moskowitz" >
